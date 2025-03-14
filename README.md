@@ -35,14 +35,14 @@ I'm a passionate **Full Stack Developer** with experience in **Java, Node.js, Py
 
 ## 💼 Experience
 
-### Carnival Corporation (Health Informatics Co-op)
+### 🌟 Carnival Corporation (Health Informatics Co-op)
 **Role:** Designed and developed a Quality & Patient Safety application using PowerApps and Dataverse.  
 **Impact:** Enabled effective tracking, investigation, and analysis of medical events and risks across **100+ medical centers** for 9 cruise brands.   
 **Highlights:**  
 - Led the entire software development lifecycle—from requirements gathering and MVP design to onsite testing with medical staff—iterating based on Agile practices.  
 - Implemented complex security roles and user privileges to safeguard sensitive healthcare data.
 
-### IBM (Application Developer)
+### 🌟 IBM (Application Developer)
 **Role:**  Developed robust REST API endpoints in Node.js for the administration and authentication of digital credentials, integrating decentralized identifiers (DIDs) for enhanced security.     
 **Impact:**  Improved application efficiency by **90%** and streamlined quality assurance with automated regression testing.    
 **Highlights:**  
