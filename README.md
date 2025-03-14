@@ -1,8 +1,8 @@
 # Hello world, I'm Soumya Ganesh <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="Hello">
 
-I'm based in Boston, but I proudly hail from Kerala, known as God's Own Country!🌴
+I'm based in Boston, with roots in Kerala, God's Own Country!🌴 
 
-### 💡 Developer | Tech Enthusiast | Problem Solver
+### 💡 Developer | Tech Enthusiast 
 
 I'm a passionate **Full Stack Developer** with experience in **Java, Node.js, Python, React, SQL, and Power Platform**, specializing in building scalable, secure, and innovative solutions in **healthcare, digital credentials, and enterprise applications**. I thrive in dynamic environments, collaborating across teams to craft impactful solutions.
 
@@ -31,8 +31,29 @@ I'm a passionate **Full Stack Developer** with experience in **Java, Node.js, Py
 [![ClickUp Badge](https://img.shields.io/badge/-ClickUp-5B5B5B?style=for-the-badge&logo=clickup&logoColor=white)](#)
 
 ## 💼 Experience
-- **Carnival Corporation (Health Informatics Co-op)**: Led full-stack development for a Quality & Patient Safety application, streamlining risk assessment across **100+ medical centers**.
-- **IBM (Application Developer)**: Developed REST API solutions for **secure digital credentials**, reducing authentication errors by **80%** and optimizing application efficiency.
+
+### Carnival Corporation (Health Informatics Co-op)
+**Role:**  <br>  
+- Designed and developed a Quality & Patient Safety application using PowerApps and Dataverse. 
+
+**Impact:**    <br>  
+- Enabled effective tracking, investigation, and analysis of medical events and risks across **100+ medical centers** for 9 cruise brands. 
+    
+**Highlights:**   <br>  
+- Led the entire software development lifecycle—from requirements gathering and MVP design to onsite testing with medical staff—iterating based on Agile practices.  
+- Implemented complex security roles and user privileges to safeguard sensitive healthcare data.
+
+### IBM (Application Developer)
+**Role:**  
+- Developed robust REST API endpoints in Node.js for the administration and authentication of digital credentials, integrating decentralized identifiers (DIDs) for enhanced security.
+
+**Impact:**  
+- Improved application efficiency by **90%** and streamlined quality assurance with automated regression testing.
+
+**Highlights:**  
+- Managed performance environments, led Node.js version upgrades across microservices, and resolved critical security vulnerabilities.  
+- Facilitated knowledge transfer sessions and onboarded new team members effectively.  
+- Mentored junior developers, fostering team growth and ensuring sustainable system scalability.
 
 ## 🏆 Featured Projects
 Check out my **GitHub repositories** for my latest work!
