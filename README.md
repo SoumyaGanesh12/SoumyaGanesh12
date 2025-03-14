@@ -54,7 +54,7 @@ I'm a passionate **Full Stack Developer** with experience in **Java, Node.js, Py
 ## 🤝 Let's Connect!
  
 📫 **Email:** [soumyaganesh298@gmail.com](mailto:soumyaganesh298@gmail.com) , [ganesh.so@northeastern.edu](mailto:ganesh.so@northeastern.edu)     
-💼 **LinkedIn:** [linkedin.com/in/soumya-ganesh](#)      
+💼 **LinkedIn:** [linkedin.com/in/soumya-ganesh]    
 🐙 **GitHub:** [github.com/SoumyaGanesh12](#)    
 
 I’m always open to collaboration, hackathons, and tech discussions—let’s build something amazing together! 🚀
