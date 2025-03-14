@@ -33,36 +33,29 @@ I'm a passionate **Full Stack Developer** with experience in **Java, Node.js, Py
 ## 💼 Experience
 
 ### Carnival Corporation (Health Informatics Co-op)
-**Role:**  <br>  
-- Designed and developed a Quality & Patient Safety application using PowerApps and Dataverse. 
+**Role:** Designed and developed a Quality & Patient Safety application using PowerApps and Dataverse. 
 
-**Impact:**    <br>  
-- Enabled effective tracking, investigation, and analysis of medical events and risks across **100+ medical centers** for 9 cruise brands. 
+**Impact:** Enabled effective tracking, investigation, and analysis of medical events and risks across **100+ medical centers** for 9 cruise brands. 
     
-**Highlights:**   <br>  
+**Highlights:**  
 - Led the entire software development lifecycle—from requirements gathering and MVP design to onsite testing with medical staff—iterating based on Agile practices.  
 - Implemented complex security roles and user privileges to safeguard sensitive healthcare data.
 
 ### IBM (Application Developer)
-**Role:**  
-- Developed robust REST API endpoints in Node.js for the administration and authentication of digital credentials, integrating decentralized identifiers (DIDs) for enhanced security.
+**Role:**  Developed robust REST API endpoints in Node.js for the administration and authentication of digital credentials, integrating decentralized identifiers (DIDs) for enhanced security.    
 
-**Impact:**  
-- Improved application efficiency by **90%** and streamlined quality assurance with automated regression testing.
+**Impact:**  Improved application efficiency by **90%** and streamlined quality assurance with automated regression testing.   
 
 **Highlights:**  
 - Managed performance environments, led Node.js version upgrades across microservices, and resolved critical security vulnerabilities.  
 - Facilitated knowledge transfer sessions and onboarded new team members effectively.  
 - Mentored junior developers, fostering team growth and ensuring sustainable system scalability.
 
-## 🏆 Featured Projects
-Check out my **GitHub repositories** for my latest work!
-
 ## 🤝 Let's Connect!
  
-📫 **Email:** [soumyaganesh298@gmail.com](mailto:soumyaganesh298@gmail.com) , [ganesh.so@northeastern.edu](mailto:ganesh.so@northeastern.edu) 
-💼 **LinkedIn:** [linkedin.com/in/soumya-ganesh](#)  
-🐙 **GitHub:** [github.com/SoumyaGanesh12](#)  
+📫 **Email:** [soumyaganesh298@gmail.com](mailto:soumyaganesh298@gmail.com) , [ganesh.so@northeastern.edu](mailto:ganesh.so@northeastern.edu)     
+💼 **LinkedIn:** [linkedin.com/in/soumya-ganesh](#)      
+🐙 **GitHub:** [github.com/SoumyaGanesh12](#)    
 
 I’m always open to collaboration, hackathons, and tech discussions—let’s build something amazing together! 🚀
 
