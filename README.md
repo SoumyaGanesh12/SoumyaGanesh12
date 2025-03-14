@@ -52,10 +52,12 @@ I'm a passionate **Full Stack Developer** with experience in **Java, Node.js, Py
 - Mentored junior developers, fostering team growth and ensuring sustainable system scalability.
 
 ## 🤝 Let's Connect!
- 
-📫 **Email:** [soumyaganesh298@gmail.com](mailto:soumyaganesh298@gmail.com) , [ganesh.so@northeastern.edu](mailto:ganesh.so@northeastern.edu)     
-💼 **LinkedIn:** [linkedin.com/in/soumya-ganesh]    
-🐙 **GitHub:** [github.com/SoumyaGanesh12](#)    
 
-I’m always open to collaboration, hackathons, and tech discussions—let’s build something amazing together! 🚀
+💌 **Email:** [soumyaganesh298@gmail.com](mailto:soumyaganesh298@gmail.com) | [ganesh.so@northeastern.edu](mailto:ganesh.so@northeastern.edu)   
+💼 **LinkedIn:** [linkedin.com/in/soumya-ganesh](https://linkedin.com/in/soumya-ganesh)  
+🐙 **GitHub:** [github.com/SoumyaGanesh12](https://github.com/SoumyaGanesh12)  
+
+✨ In my free time, I enjoy **listening to music, walking, singing, and cooking**. I love discussing **life, different perspectives, and personal growth**—always striving to learn and evolve.  
+
+🔗 Feel free to reach out—whether it’s for tech discussions, collaborations, or just a quick chat! 🚀
 
