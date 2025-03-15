@@ -24,6 +24,7 @@ I'm a passionate **Full Stack Developer** with experience in **Java, Node.js, Py
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)](#)
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 [![Gherkin Badge](https://img.shields.io/badge/-Gherkin-79B8FF?style=for-the-badge&logo=data&logoColor=white)](#)
 [![Shell Scripting Badge](https://img.shields.io/badge/-Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
 [![PowerApps Badge](https://img.shields.io/badge/-PowerApps-742774?style=for-the-badge&logoColor=white)](#)
