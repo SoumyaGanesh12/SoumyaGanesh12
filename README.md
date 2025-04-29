@@ -60,5 +60,5 @@ I'm a passionate **Full Stack Developer** with experience in **Java, Node.js, Py
 
 ✨ In my free time, I enjoy **listening to music, walking, and cooking**. I love discussing **life, different perspectives, and personal growth**, always striving to learn and evolve.  
 
-🔗 Feel free to reach out—whether it’s for tech discussions, collaborations, or just a quick chat! 🚀
+🔗 Feel free to reach out - whether it’s for tech discussions, collaborations, or just a quick chat! 🚀
 
