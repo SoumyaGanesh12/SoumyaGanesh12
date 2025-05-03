@@ -41,7 +41,7 @@ I'm a passionate **Full Stack Developer** with experience in **Java, Node.js, Py
 **Role:** Designed and developed a Quality & Patient Safety application using PowerApps and Dataverse.  
 **Impact:** Enabled effective tracking, investigation, and analysis of medical events and risks across **100+ medical centers** for 9 cruise brands.   
 **Highlights:**  
-- Led the entire software development lifecycle—from requirements gathering and MVP design to onsite testing with medical staff—iterating based on Agile practices.  
+- Led the entire software development lifecycle, from requirements gathering and MVP design to onsite testing with medical staff, iterating based on Agile practices.  
 - Implemented complex security roles and user privileges to safeguard sensitive healthcare data.
 
 ### 🌟 IBM (Application Developer)
