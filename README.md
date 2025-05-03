@@ -12,7 +12,7 @@ I'm a passionate **Full Stack Developer** with experience in **Java, Node.js, Py
 🏢 **Health Informatics Co-op** @ Carnival Corporation (Sep 2024 - Jan 2025)  
 💻 **Application Developer** @ IBM (Apr 2021 - Jun 2023)  
 📍 Currently Exploring: **AI, Cloud Computing, and Enterprise App Development**  
-📣 [Featured in Northeastern's article: "Revolutionizing Cruise Health"](https://miami.northeastern.edu/news/revolutionizing-cruise-health-co-op-student-develops-innovative-app-for-carnival-corporation/)
+📣 Featured in Northeastern's article: ["Revolutionizing Cruise Health"](https://miami.northeastern.edu/news/revolutionizing-cruise-health-co-op-student-develops-innovative-app-for-carnival-corporation/)
 
 ## 🛠️ Tech Stack
 
