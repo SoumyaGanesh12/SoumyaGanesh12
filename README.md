@@ -2,11 +2,11 @@
 
 I'm based in Boston, with roots in Kerala, God's Own Country!🌴 
 
-### 💡 Developer | Tech Enthusiast 
+### Developer | Tech Enthusiast 
 
 I'm a passionate **Full Stack Developer** with experience in **Java, Node.js, Python, React, SQL, and Power Platform**, specializing in building scalable, secure, and innovative solutions in **healthcare, digital credentials, and enterprise applications**. I thrive in dynamic environments, collaborating across teams to craft impactful solutions.
 
-## 🔥 About Me
+## About Me
 
 🎓 **Master’s in Information Systems** @ Northeastern University (Expected Dec 2025)  
 🏢 **Health Informatics Co-op** @ Carnival Corporation (Sep 2024 - Jan 2025)  
@@ -14,7 +14,7 @@ I'm a passionate **Full Stack Developer** with experience in **Java, Node.js, Py
 📍 Currently Exploring: **AI, Cloud Computing, and Enterprise App Development**  
 📣 Featured in Northeastern's article: ["Revolutionizing Cruise Health"](https://miami.northeastern.edu/news/revolutionizing-cruise-health-co-op-student-develops-innovative-app-for-carnival-corporation/)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 [![Java Badge](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
 [![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](#)
@@ -35,7 +35,7 @@ I'm a passionate **Full Stack Developer** with experience in **Java, Node.js, Py
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 [![Cucumber Badge](https://img.shields.io/badge/-Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)](#)
 
-## 💼 Experience
+## Experience
 
 ### 🌟 Carnival Corporation (Health Informatics Co-op)
 **Role:** Designed and developed a Quality & Patient Safety application using PowerApps and Dataverse.  
@@ -52,7 +52,7 @@ I'm a passionate **Full Stack Developer** with experience in **Java, Node.js, Py
 - Facilitated knowledge transfer sessions and onboarded new team members effectively.  
 - Mentored junior developers, fostering team growth and ensuring sustainable system scalability.
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 💌 **Email:** [soumyaganesh298@gmail.com](mailto:soumyaganesh298@gmail.com) | [ganesh.so@northeastern.edu](mailto:ganesh.so@northeastern.edu)   
 💼 **LinkedIn:** [linkedin.com/in/soumya-ganesh](https://linkedin.com/in/soumya-ganesh)  
