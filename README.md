@@ -4,11 +4,11 @@ I'm based in Boston, with roots in Kerala, God's Own Country!🌴
 
 ### Developer | Tech Enthusiast 
 
-I'm a passionate **Full Stack Developer** with experience in **Java, Node.js, Python, React, SQL, and Power Platform**, specializing in building scalable, secure, and innovative solutions in **healthcare, digital credentials, and enterprise applications**. I thrive in dynamic environments, collaborating across teams to craft impactful solutions.
+I'm a passionate **Full Stack Developer** with experience in **Java, Node.js, Python, React, AWS, SQL, and Power Platform**, specializing in building scalable, secure, and innovative solutions in **healthcare, digital credentials, and enterprise applications**. I thrive in dynamic environments, collaborating across teams to craft impactful solutions.
 
 ## About Me
 
-🎓 **Master’s in Information Systems** @ Northeastern University (Expected Dec 2025)  
+🎓 **Master’s in Information Systems** @ Northeastern University (Graduated Dec 2025)  
 🏢 **Health Informatics Co-op** @ Carnival Corporation (Sep 2024 - Jan 2025)  
 💻 **Application Developer** @ IBM (Apr 2021 - Jun 2023)  
 📍 Currently Exploring: **AI, Cloud Computing, and Enterprise App Development**  
