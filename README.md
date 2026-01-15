@@ -29,19 +29,19 @@ I'm a passionate **Full Stack Developer** with experience in **Java, Node.js, Py
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+[![AWS Badge](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
+[![GCP Badge](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](#)
 [![Terraform Badge](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](#)
 [![Packer Badge](https://img.shields.io/badge/-Packer-41B6E6?style=for-the-badge&logo=packer&logoColor=white)](#)
 [![CI/CD Badge](https://img.shields.io/badge/-CI/CD-5B5B5B?style=for-the-badge&logo=github&logoColor=white)](#)
-[![AWS Badge](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
-[![GCP Badge](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](#)
-[![Gherkin Badge](https://img.shields.io/badge/-Gherkin-79B8FF?style=for-the-badge&logo=data&logoColor=white)](#)
 [![Shell Scripting Badge](https://img.shields.io/badge/-Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
+[![Gherkin Badge](https://img.shields.io/badge/-Gherkin-79B8FF?style=for-the-badge&logo=data&logoColor=white)](#)
+[![Cucumber Badge](https://img.shields.io/badge/-Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)](#)
 [![PowerApps Badge](https://img.shields.io/badge/-PowerApps-742774?style=for-the-badge&logoColor=white)](#)
 [![Dataverse Badge](https://img.shields.io/badge/-Dataverse-1A73E8?style=for-the-badge&logo=microsoft&logoColor=white)](#)
 [![Jira Badge](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](#)
 [![ClickUp Badge](https://img.shields.io/badge/-ClickUp-5B5B5B?style=for-the-badge&logo=clickup&logoColor=white)](#)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Cucumber Badge](https://img.shields.io/badge/-Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)](#)
 
 ## Experience
 
