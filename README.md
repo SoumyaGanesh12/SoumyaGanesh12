@@ -4,12 +4,12 @@ I'm based in Boston, with roots in Kerala, God's Own Country!🌴
 
 ### Developer | Tech Enthusiast 
 
-I'm a passionate **Full Stack Developer** with experience in **Java, Node.js, Python, React, AWS, SQL, and Power Platform**, specializing in building scalable, secure, and innovative solutions in **healthcare, digital credentials, and enterprise applications**. I thrive in dynamic environments, collaborating across teams to craft impactful solutions.
+I'm a passionate **Software Engineer** with experience in **Java, Node.js, Python, Spring Boot, React, AWS, SQL, and Power Platform**, specializing in building scalable, secure, and innovative solutions in **healthcare, digital credentials, and enterprise applications**. I thrive in dynamic environments, collaborating across teams to craft impactful solutions.
 
 ## About Me
 
 🎓 **Master’s in Information Systems** @ Northeastern University (Graduated Dec 2025)  
-🏢 **Health Informatics Co-op** @ Carnival Corporation (Sep 2024 - Jan 2025)  
+🏢 **Software Engineer (Health Informatics Co-op)** @ Carnival Corporation (Sep 2024 - Jan 2025)  
 💻 **Application Developer** @ IBM (Apr 2021 - Jun 2023)  
 📍 Currently Exploring: **AI, Cloud Computing, and Enterprise App Development**  
 📣 Featured in Northeastern's article: ["Revolutionizing Cruise Health"](https://miami.northeastern.edu/news/revolutionizing-cruise-health-co-op-student-develops-innovative-app-for-carnival-corporation/)
@@ -45,19 +45,21 @@ I'm a passionate **Full Stack Developer** with experience in **Java, Node.js, Py
 
 ## Experience
 
-### 🌟 Carnival Corporation (Health Informatics Co-op)
-**Role:** Designed and developed a Quality & Patient Safety application using PowerApps and Dataverse.  
-**Impact:** Enabled effective tracking, investigation, and analysis of medical events and risks across **100+ medical centers** for 9 cruise brands.   
+### 🌟 Carnival Corporation (Software Engineer - Health Informatics Co-op)
+**Role:** Designed and developed a Quality and Patient Safety application using PowerApps and Dataverse, enabling tracking, investigation, and root cause analysis of medical events across **100+ cruise ship medical centers.**
+**Impact:** Reduced critical event response time by **70%** and enabled real-time visibility into patient safety events across **9 cruise brands.**
 **Highlights:**  
-- Led the entire software development lifecycle, from requirements gathering and MVP design to onsite testing with medical staff, iterating based on Agile practices.  
-- Implemented complex security roles and user privileges to safeguard sensitive healthcare data.
+- Performed exploratory data analysis on medical embarkation data using Python, Pandas, and Matplotlib to identify patterns in patient conditions and define application requirements.
+- Led the full software development lifecycle from requirements gathering and prototyping with cross-functional stakeholders to onsite testing with medical staff following Agile methodologies.
+- Implemented granular role-based access controls to safeguard sensitive healthcare data.
+- Presented the application to the Chief Health Officer and senior leadership.
 
 ### 🌟 IBM (Application Developer)
-**Role:**  Developed robust REST API endpoints in Node.js for the administration and authentication of digital credentials, integrating decentralized identifiers (DIDs) for enhanced security.     
-**Impact:**  Improved application efficiency by **90%** and streamlined quality assurance with automated regression testing.    
+**Role:**  Developed and maintained scalable RESTful APIs and distributed microservices in Node.js for IBM Digital Credentials, a SaaS platform for secure digital credential management supporting **5,000+** enterprise users.   
+**Impact:**  Improved API latency by **90% from 6 seconds to 600ms** through load testing with Artillery, root cause analysis, and systematic debugging of production issues.   
 **Highlights:**  
-- Managed performance environments, led Node.js version upgrades across microservices, and resolved critical security vulnerabilities.  
-- Facilitated knowledge transfer sessions and onboarded new team members effectively.  
+- Implemented credential issuance and verification workflows, OAuth 2.0 and SSO integration, and optimized database performance.
+- Configured Jenkins CI/CD pipelines for automated end-to-end regression testing
 - Mentored junior developers, fostering team growth and ensuring sustainable system scalability.
 
 ## Let's Connect!
