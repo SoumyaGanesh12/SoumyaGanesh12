@@ -4,7 +4,7 @@ I'm based in Boston, with roots in Kerala, God's Own Country!🌴
 
 ### Developer | Tech Enthusiast 
 
-I'm a passionate **Software Engineer** with experience in **Java, Node.js, Python, Spring Boot, React, AWS, SQL, and Power Platform**, specializing in building scalable, secure, and innovative solutions in **healthcare, digital credentials, and enterprise applications**. I thrive in dynamic environments, collaborating across teams to craft impactful solutions.
+I am a **Software Engineer** with 2.5 years of professional experience building scalable, secure, and reliable systems across **healthcare, digital credentials, and enterprise applications**. My core stack includes **Java, Node.js, Python, Spring Boot, React, AWS, and SQL,** and and I thrive in dynamic environments, collaborating across teams to craft impactful solutions. 
 
 ## About Me
 
@@ -47,7 +47,7 @@ I'm a passionate **Software Engineer** with experience in **Java, Node.js, Pytho
 
 ### 🌟 Carnival Corporation (Software Engineer - Health Informatics Co-op)
 **Role:** Designed and developed a Quality and Patient Safety application using PowerApps and Dataverse, enabling tracking, investigation, and root cause analysis of medical events across **100+ cruise ship medical centers.**
-**Impact:** Reduced critical event response time by **70%** and enabled real-time visibility into patient safety events across **9 cruise brands.**
+**Impact:** Reduced critical event response time by **70%** and enabled real-time visibility into patient safety events across **9 cruise brands.**  
 **Highlights:**  
 - Performed exploratory data analysis on medical embarkation data using Python, Pandas, and Matplotlib to identify patterns in patient conditions and define application requirements.
 - Led the full software development lifecycle from requirements gathering and prototyping with cross-functional stakeholders to onsite testing with medical staff following Agile methodologies.
